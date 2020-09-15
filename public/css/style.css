@@ -1,0 +1,11 @@
+footer {
+    text-align : center;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: darkslategrey;
+    color: whitesmoke;
+}
+
+body{
+    background-color: red;
+}
